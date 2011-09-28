@@ -1,0 +1,24 @@
+
+# Project template for OCaml projects
+
+
+
+Code should be structured roughly like this:
+
+    project/
+        Makefile
+        README
+        ChangeLog
+        ...
+        src/
+            program.ml
+            interface.mli
+            ...
+        tests/
+            ...
+    
+Make sure to change the program name near the top of the Makefile.
+
+---------------------------------------
+
+© Sarah Mount, 2011.
