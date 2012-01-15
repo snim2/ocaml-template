@@ -1,9 +1,9 @@
-
 # Project template for OCaml projects
 
 
 
 Code should be structured roughly like this:
+
 
     project/
         Makefile
@@ -16,9 +16,9 @@ Code should be structured roughly like this:
             ...
         tests/
             ...
-    
+
+
 Make sure to change the program name near the top of the Makefile.
 
----------------------------------------
 
 © Sarah Mount, 2011.
